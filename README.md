@@ -1,6 +1,6 @@
 # -Workshop-2
 
-https://amiarr.github.io/New-Workshop-2/
+https://amiarr.github.io/Workshop-2/
 
 For this task I downloaded VSCode and created a sketch using setTimeout and setInterval functions, I used setInterval for the squares and setTimeout for the tiangles in this sketch. I could have improved this sketch by making the triangles have sides of equal length, which would look better visually with the squares. 
 
